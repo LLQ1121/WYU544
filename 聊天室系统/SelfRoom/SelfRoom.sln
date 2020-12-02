@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelfRoom", "SelfRoom\SelfRoom.vcxproj", "{5A9195C4-82A8-4A85-92CB-7EE515903802}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelfChat", "..\SelfChat\SelfChat\SelfChat.vcxproj", "{639179EA-FF7A-416E-BB50-1B5244D19D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9195C4-82A8-4A85-92CB-7EE515903802}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A9195C4-82A8-4A85-92CB-7EE515903802}.Debug|Win32.Build.0 = Debug|Win32
+		{5A9195C4-82A8-4A85-92CB-7EE515903802}.Release|Win32.ActiveCfg = Release|Win32
+		{5A9195C4-82A8-4A85-92CB-7EE515903802}.Release|Win32.Build.0 = Release|Win32
+		{639179EA-FF7A-416E-BB50-1B5244D19D5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{639179EA-FF7A-416E-BB50-1B5244D19D5C}.Debug|Win32.Build.0 = Debug|Win32
+		{639179EA-FF7A-416E-BB50-1B5244D19D5C}.Release|Win32.ActiveCfg = Release|Win32
+		{639179EA-FF7A-416E-BB50-1B5244D19D5C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
