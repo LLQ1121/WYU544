@@ -45,7 +45,7 @@ assets/config/api.js
 |--|
 
 #### 商品
-| 点击对应商品 ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/product.PNG"屏幕截图.png") | 选择商品规格 ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/clickProduct.PNG "屏幕截图.png") |
+| 点击对应商品 ![输入图片说明](https://github.com/LLQ1121/WYU544/blob/master/%E7%BD%91%E6%98%93%E4%B8%A5%E9%80%89%E5%95%86%E5%9F%8E/mall/img/product.PNG "屏幕截图.png") | 选择商品规格 ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/clickProduct.PNG "屏幕截图.png") |
 |---|---|
 
 #### 购物车页面
