@@ -1,4 +1,9 @@
-# 商城
+# 商城 
+```
+
+项目是跟着b站up主*老陈打码*学习的,仅用于学习。
+项目使用vue和vant ui开发，偏向移动端。
+```
 
 ## Project setup
 ```
@@ -21,27 +26,9 @@ assets/config/api.js
 
 
 
-### 技术：
+### 项目效果图：
 
-1-vant ui框架
-
-2-less-css预编译语言
-
-3-vue
-
-4-vue router
-
-5-vuex
-
-6-axios
-
-7-javascript
-
-8-html5
-
-9-css3
-
-10-vue-cli
-
-11-webpack
+#### 首页
+| ![输入图片说明](img/home.png "屏幕截图.png")  | 
+|---|---|
 
