@@ -38,20 +38,20 @@ assets/config/api.js
 
 #### 分类页面
 |  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/category.PNG "屏幕截图.png")|
-|--|--|
+|--|
 
 #### 分类列表
 |  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/categoryList.PNG "屏幕截图.png")|
-|--|--|
+|--|
 
 #### 商品
-| 点击对应商品 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/product.png "屏幕截图.png") | 选择商品规格 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/clickProduct.png "屏幕截图.png") |
+| 点击对应商品 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/product.PNG"屏幕截图.png") | 选择商品规格 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/clickProduct.PNG "屏幕截图.png") |
 |---|---|
 
 #### 购物车页面
-|  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/bycart.PNG "屏幕截图.png")|
-|--|--|
+|  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/buycart.PNG "屏幕截图.png")|
+|--|
 
 #### 我的页面
 |  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/my.PNG "屏幕截图.png")|
-|--|--|
+|--|
