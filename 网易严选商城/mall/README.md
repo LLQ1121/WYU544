@@ -29,6 +29,6 @@ assets/config/api.js
 ### 项目效果图：
 
 #### 首页
-|  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/110643_de0f7a27_7602838.png "屏幕截图.png")|
+|  ![输入图片说明](./img/home.png "屏幕截图.png")|
 |--|
 
