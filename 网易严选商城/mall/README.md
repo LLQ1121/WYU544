@@ -45,7 +45,7 @@ assets/config/api.js
 |--|
 
 #### 商品
-| 点击对应商品 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/product.PNG"屏幕截图.png") | 选择商品规格 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0713/clickProduct.PNG "屏幕截图.png") |
+| 点击对应商品 ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/product.PNG"屏幕截图.png") | 选择商品规格 ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/clickProduct.PNG "屏幕截图.png") |
 |---|---|
 
 #### 购物车页面
