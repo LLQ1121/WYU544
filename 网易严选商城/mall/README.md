@@ -29,6 +29,6 @@ assets/config/api.js
 ### 项目效果图：
 
 #### 首页
-|  ![输入图片说明](./img/home.png "屏幕截图.png")|
+|  ![输入图片说明](https://raw.githubusercontent.com/LLQ1121/WYU544/master/网易严选商城/mall/img/first.PNG "屏幕截图.png")|
 |--|
 
