@@ -104,6 +104,13 @@ Page({
   handleRefresher(){
     this.getVideoList(this.data.navId);
   },
+
+  toSearch(){
+    wx.navigateTo({
+      url: '/pages/search/search'
+    })
+  },
+
   //上拉触底 显示更多内容 网易云暂无api接口
   handleTolower(){
     //
@@ -154,6 +161,8 @@ Page({
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    return{
+      title: '转发给你的好友'
+    }
   }
 })

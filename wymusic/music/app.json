@@ -1,9 +1,12 @@
 {
   "pages": [
-    "pages/video/video",
     "pages/index/index",
+    "pages/search/search",
+    "pages/songDetail/songDetail",
     "pages/login/login",
-    "pages/personal/personal"
+    "pages/personal/personal",
+    "pages/recommendSong/recommendSong",
+    "pages/video/video"
   ],
   "sitemapLocation": "sitemap.json",
   "style": "v2",
@@ -36,5 +39,8 @@
         "selectedIconPath": "/static/images/tabs/tab-my-current.png"
       }
     ]
-  }
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ]
 }
